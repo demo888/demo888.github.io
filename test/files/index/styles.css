@@ -122,3 +122,35 @@
   width:57px;
   white-space:nowrap;
 }
+#u7_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:33px;
+  height:22px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-size:16px;
+  color:#0000FF;
+}
+#u7 {
+  position:absolute;
+  left:227px;
+  top:22px;
+  width:33px;
+  height:22px;
+  font-size:16px;
+  color:#0000FF;
+}
+#u8 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:33px;
+  white-space:nowrap;
+}
