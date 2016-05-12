@@ -62,6 +62,8 @@
 ._文本段落 {
   text-align:left;
 }
+.line {
+}
 .text_field {
   color:#000000;
   text-align:left;
@@ -70,8 +72,17 @@
   color:#000000;
   text-align:left;
 }
+.checkbox {
+  text-align:left;
+}
 .radio_button {
   text-align:left;
 }
 .table_cell {
+}
+.sticky_2 {
+  text-align:left;
+}
+._图片1 {
+  color:#000000;
 }
