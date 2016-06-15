@@ -12,7 +12,7 @@
   position:absolute;
   z-index:0;
 }
-#u945_div {
+#u973_div {
   position:absolute;
   left:0px;
   top:0px;
@@ -29,14 +29,14 @@
   -webkit-box-shadow:none;
   box-shadow:none;
 }
-#u945 {
+#u973 {
   position:absolute;
   left:0px;
   top:0px;
   width:375px;
   height:667px;
 }
-#u946 {
+#u974 {
   position:absolute;
   left:2px;
   top:326px;
@@ -44,25 +44,25 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u947 {
+#u975 {
   position:fixed;
   left:0px;
   bottom:0px;
 }
-#u947_state0 {
+#u975_state0 {
   position:relative;
   left:0px;
   top:0px;
   background-image:none;
 }
-#u947_state0_content {
+#u975_state0_content {
   position:absolute;
   left:0px;
   top:0px;
   width:1px;
   height:1px;
 }
-#u948_div {
+#u976_div {
   position:absolute;
   left:0px;
   top:0px;
@@ -76,14 +76,14 @@
   -webkit-box-shadow:none;
   box-shadow:none;
 }
-#u948 {
+#u976 {
   position:absolute;
   left:0px;
   top:0px;
   width:375px;
   height:47px;
 }
-#u949 {
+#u977 {
   position:absolute;
   left:2px;
   top:16px;
@@ -91,7 +91,7 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u950_div {
+#u978_div {
   position:absolute;
   left:0px;
   top:0px;
@@ -106,7 +106,7 @@
   box-shadow:none;
   text-align:center;
 }
-#u950 {
+#u978 {
   position:absolute;
   left:0px;
   top:14px;
@@ -114,14 +114,14 @@
   height:20px;
   text-align:center;
 }
-#u951 {
+#u979 {
   position:absolute;
   left:0px;
   top:0px;
   width:375px;
   word-wrap:break-word;
 }
-#u952 {
+#u980 {
   position:absolute;
   left:8px;
   top:4px;
@@ -130,7 +130,7 @@
   overflow:hidden;
   background-image:url('../../resources/images/transparent.gif');
 }
-#u953 {
+#u981 {
   position:absolute;
   left:107px;
   top:4px;
@@ -139,7 +139,16 @@
   overflow:hidden;
   background-image:url('../../resources/images/transparent.gif');
 }
-#u954_div {
+#u982 {
+  position:absolute;
+  left:296px;
+  top:4px;
+  width:73px;
+  height:40px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
+#u983_div {
   position:absolute;
   left:0px;
   top:0px;
@@ -153,14 +162,14 @@
   -webkit-box-shadow:none;
   box-shadow:none;
 }
-#u954 {
+#u983 {
   position:absolute;
   left:0px;
   top:0px;
   width:375px;
   height:50px;
 }
-#u955 {
+#u984 {
   position:absolute;
   left:2px;
   top:17px;
