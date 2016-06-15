@@ -46,8 +46,7 @@
 }
 #u3 {
   position:fixed;
-  left:50%;
-  margin-left:-187.5px;
+  left:0px;
   bottom:0px;
 }
 #u3_state0 {
@@ -509,7 +508,7 @@
 .u34 {
   position:absolute;
   left:0px;
-  top:0px;
+  top:-1px;
   width:344px;
   height:108px;
   overflow:hidden;
