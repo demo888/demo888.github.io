@@ -13,6 +13,8 @@
 }
 .box_3 {
 }
+.ellipse {
+}
 .placeholder {
 }
 ._图片 {
@@ -61,5 +63,17 @@
 }
 .line {
 }
+.table_cell {
+}
 ._流程形状 {
+}
+._文本段落1 {
+  text-align:left;
+}
+._形状 {
+}
+._水平线 {
+}
+._图片1 {
+  color:#000000;
 }
