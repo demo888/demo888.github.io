@@ -173,3 +173,12 @@
   visibility:hidden;
   word-wrap:break-word;
 }
+#u11 {
+  position:absolute;
+  left:0px;
+  top:17px;
+  width:55px;
+  height:48px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
