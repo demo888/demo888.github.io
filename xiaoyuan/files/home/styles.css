@@ -177,21 +177,21 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:375px;
-  height:170px;
+  width:378px;
+  height:171px;
 }
 #u11 {
   position:absolute;
-  left:0px;
+  left:-1px;
   top:660px;
-  width:375px;
-  height:170px;
+  width:378px;
+  height:171px;
 }
 #u12 {
   position:absolute;
   left:2px;
-  top:77px;
-  width:371px;
+  top:78px;
+  width:374px;
   visibility:hidden;
   word-wrap:break-word;
 }
