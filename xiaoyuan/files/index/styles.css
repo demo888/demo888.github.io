@@ -208,6 +208,7 @@
   position:absolute;
   left:0px;
   top:64px;
+  touch-action:pan-y;
 }
 #u13_state0 {
   position:relative;
