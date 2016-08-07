@@ -70,6 +70,24 @@
 }
 .line {
 }
+.text_field {
+  color:#000000;
+  text-align:left;
+}
+.text_area {
+  color:#000000;
+  text-align:left;
+}
+.droplist {
+  color:#000000;
+  text-align:left;
+}
+.checkbox {
+  text-align:left;
+}
+.radio_button {
+  text-align:left;
+}
 .table_cell {
 }
 ._流程形状 {
@@ -83,4 +101,8 @@
 }
 ._图片1 {
   color:#000000;
+}
+._形状1 {
+}
+._水平线1 {
 }
