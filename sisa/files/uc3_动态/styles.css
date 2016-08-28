@@ -4,7 +4,7 @@
   background-image:none;
   position:static;
   left:auto;
-  width:376px;
+  width:374px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -15,7 +15,7 @@
 }
 #u341 {
   position:absolute;
-  left:0px;
+  left:-1px;
   top:0px;
 }
 #u341_state0 {
