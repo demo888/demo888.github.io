@@ -15,7 +15,12 @@
 }
 .ellipse {
 }
+._文本段落 {
+  text-align:left;
+}
 ._形状 {
+}
+._水平线 {
 }
 ._图片 {
 }
@@ -58,10 +63,14 @@
   font-size:14px;
   text-align:left;
 }
-._文本段落 {
+._文本段落1 {
   text-align:left;
 }
 .line {
+}
+.text_field {
+  color:#000000;
+  text-align:left;
 }
 .text_area {
   color:#000000;
