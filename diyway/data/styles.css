@@ -17,6 +17,8 @@
 }
 .image {
 }
+.placeholder {
+}
 .primary_button {
   color:#FFFFFF;
 }
@@ -70,6 +72,12 @@
 }
 .checkbox {
   text-align:left;
+}
+.sticky_2 {
+  text-align:left;
+}
+.marker {
+  color:#FFFFFF;
 }
 ._流程形状 {
 }
