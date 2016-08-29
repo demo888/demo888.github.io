@@ -4471,3 +4471,21 @@
   width:35px;
   white-space:nowrap;
 }
+#u652 {
+  position:absolute;
+  left:14px;
+  top:64px;
+  width:350px;
+  height:179px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
+#u653 {
+  position:absolute;
+  left:14px;
+  top:253px;
+  width:350px;
+  height:179px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
