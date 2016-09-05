@@ -70,8 +70,14 @@
   color:#000000;
   text-align:left;
 }
+.text_area {
+  color:#000000;
+  text-align:left;
+}
 .checkbox {
   text-align:left;
+}
+.table_cell {
 }
 .sticky_2 {
   text-align:left;
