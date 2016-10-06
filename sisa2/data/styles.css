@@ -15,6 +15,11 @@
 }
 .ellipse {
 }
+.image {
+}
+.primary_button {
+  color:#FFFFFF;
+}
 ._一级标题 {
   font-family:'ArialMT', 'Arial';
   font-weight:bold;
@@ -69,4 +74,8 @@
 ._水平线 {
 }
 .line {
+}
+.text_field {
+  color:#000000;
+  text-align:left;
 }
