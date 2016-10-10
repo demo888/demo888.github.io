@@ -17,6 +17,8 @@
 }
 .image {
 }
+.placeholder {
+}
 .primary_button {
   color:#FFFFFF;
 }
@@ -62,6 +64,13 @@
 ._文本段落 {
   text-align:left;
 }
+._文本链接 {
+  color:#0000FF;
+}
+._鼠标悬停文本链接时 {
+}
+._鼠标按下文本链接时 {
+}
 ._流程形状 {
 }
 ._形状 {
@@ -77,5 +86,18 @@
 }
 .text_field {
   color:#000000;
+  text-align:left;
+}
+.text_area {
+  color:#000000;
+  text-align:left;
+}
+.droplist {
+  color:#000000;
+  text-align:left;
+}
+.table_cell {
+}
+.sticky_2 {
   text-align:left;
 }
