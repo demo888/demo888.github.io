@@ -67,15 +67,17 @@
   box-shadow:none;
   font-size:16px;
   color:#9B9B9B;
+  text-align:right;
 }
 #u95 {
   position:absolute;
   left:222px;
-  top:250px;
+  top:252px;
   width:113px;
   height:22px;
   font-size:16px;
   color:#9B9B9B;
+  text-align:right;
 }
 #u96 {
   position:absolute;
@@ -86,7 +88,7 @@
 }
 #u97 {
   position:absolute;
-  left:15px;
+  left:13px;
   top:348px;
   width:349px;
   height:135px;
